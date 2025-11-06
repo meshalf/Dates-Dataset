@@ -1,5 +1,5 @@
 
-# Collaborative Dual Attentive Autoencoder for Recommending Scientific Articles
+# A Machine Learning Approach for Classifying Date Fruit Varieties at the Rutab Stage
 
 ## Overview
 > This repository contains a subset of the dataset used in the research project titled: “A Machine Learning Approach for Classifying Date Fruit Varieties at the Rutab Stage.”
